@@ -1,9 +1,9 @@
 # Final-Project-Super-Store
 This project involves a comprehensive analysis of a superstore's sales data to identify trends and insights that inform strategic business decisions. By merging multiple data sources, we aim to create a detailed understanding of sales performance, customer behavior, and operational challenges.
 # Objectives
-Sales Performance: Analyze data to identify trends across regions and product lines.
-Customer Insights: Segment customers based on purchasing behavior for targeted marketing.
-Return Patterns: Examine return rates to identify areas for improvement.
+Sales Performance: Analyze data to identify trends across regions and product lines.<br>
+Customer Insights: Segment customers based on purchasing behavior for targeted marketing.<br>
+Return Patterns: Examine return rates to identify areas for improvement.<br>
 # Tools Used
 Python: Leveraged for data cleaning and analysis using Pandas and NumPy.
 SQL: Used for querying and managing relational data.
